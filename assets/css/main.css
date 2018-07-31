@@ -1860,7 +1860,7 @@
 		-webkit-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
-		color: #98c593;
+		color: #0f52ba;
 	}
 
 	sub {
@@ -2154,7 +2154,7 @@
 		-webkit-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #0f52ba;
 		border: 0;
 		border-radius: 3.5em;
 		color: #fff;
